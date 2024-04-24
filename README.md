@@ -1,1 +1,1 @@
-# WebShopPal
+# WebSh
